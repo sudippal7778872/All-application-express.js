@@ -1,0 +1,10 @@
+Express is a framework of node.js
+
+API (CRUD)
+get --- read
+post --- create
+put --- update
+delete --- delete
+
+.get(route, callback)
+=>.get(route, (req,res) =>{})
