@@ -1,0 +1,6 @@
+Template Engines (Pug, hbs, EJS) in Node JS 😍  Add Dynamic Content in Express
+
+here we are using hbs   (npm i hbs)  --- because it is almost similar to html
+to use this template engine we have to make directory views(mkdir views).  and there we have to create .hbs file else it will
+give error.
+

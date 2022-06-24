@@ -1,0 +1,7 @@
+Using Partials 😍 in Express JS
+
+Partials in express is same as props in React. where ever we need we can call.
+Here in Example
+our all code will be in views and all repetative code like header footer will be in partials.
+
+to add any partials in a page we have to use {{>partials}}

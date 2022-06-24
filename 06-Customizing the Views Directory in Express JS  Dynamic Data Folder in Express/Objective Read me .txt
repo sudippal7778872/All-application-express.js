@@ -1,0 +1,10 @@
+Customizing the Views Directory in Express JS  Dynamic Data Folder in Express
+
+in this video we will see how we can change the directory of view folder.
+
+we will change from views -> templates
+
+we alwasy have to use app.sender()  -- whenever we use hbs
+
+we also see multiple file render in templates directory.
+
